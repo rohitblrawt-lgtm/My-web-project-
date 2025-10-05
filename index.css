@@ -1,0 +1,193 @@
+.body{
+  
+   background-color: red;
+  
+}
+
+
+.box{
+  margin-top: -20px;
+  width:20px;
+  height:20px;
+  border: 1px solid black;
+  background-color: red;
+  position: relative;
+/*animation-name:color;
+  animation-duration: 10s;
+  animation-delay: 0s;
+  animation-iteration-count: infinite; */
+  animation: color 10s 0s infinite;
+  
+}
+
+.box:hover{
+  transform: rotate(45deg);
+  transition: 1s;
+  
+  
+}
+@keyframes color{
+  0%
+  {
+    background-color:red;
+    left: -25px;
+    top: -552px;
+  }
+  25%
+  {
+    background-color: gold;
+    left:310px;
+    top: -552px;
+  }
+  50%
+  {
+    background-color: greenyellow;
+    left:310px;
+    top:20px;
+  }
+  75%
+  {
+    background-color: purple;
+    left: -25px;
+    top:20px;
+  }
+  100%
+  {
+    background-color: blue;
+    left: -25px;
+    top:-550px;
+  }
+  
+}
+.html
+{
+  margin-top: 25px;
+  margin-left: 19px;
+  width: 305px;
+  height: 543px;
+   background-image: /storage/emulated/0/Download/vibrant-colors-blend-abstract-backdrop-pattern-generated-by-ai.jpg;
+  box-shadow: 0 0 19px #FF0084;
+   
+  border-top: 1px solid red;
+  border-block-start:  black;
+  border-block-end: green;
+  text-align: center;
+  
+    
+  }
+.meena{
+  width:100px;
+  height: 100px:
+  
+}
+
+
+
+
+.cotainer{
+  
+  width: 100px;
+  height: 100px;
+  background-color: #ef97e8;
+  margin: 100px;
+}
+
+img{
+  margin-top:-px;
+  border: 1px solid #CEFF00;
+  border-collapse:  collapse;
+}
+h1{
+ color: chartreuse;
+   margin-top: -540px;
+   border: 1px solid white;
+   font-family: bell mt;
+   font-style:  oblique;
+}
+
+p2{padding: 6px;
+   font-size: 27px;
+   background: lightpink;
+   margin-top: ;
+   color:   maroon;
+   border: 1px solid black;
+   
+}
+p{
+   border: 2px solid orchid;
+   padding: 4px;
+   border-radius: 5px;
+   display: inline-block;
+   margin-top: -px;
+  color:  darkblue;
+   font-size: 30px;
+}
+h3{
+   border-radius: 5px;
+   background:  greenyellow;
+   margin-left: 10px;
+   text-align: left;
+   font-size: 20px;
+   margin-top: -10px;
+   color: maroon;
+   padding: 4px;
+   border: 2px solid   darkred;
+   display: inline-block;
+}
+h4{
+   margin-left: 10px;
+   
+   margin-top: -30px;
+  color: maroon; 
+  font-size: 20px; 
+   display: inline-block;
+   background: greenyellow;
+   padding: 4px;
+   border: 2px solid darkred;
+   border-radius: 5px;
+}
+
+h5{
+   background: greenyellow;
+   border: 2px solid darkred;
+   border-radius: 5px;
+   padding: 4px;
+   display: inline-block;
+   
+   margin-left: 10px;
+   font-size: 20px;
+   margin-top: -35px;
+   color:  maroon;
+}
+h6{
+   color: grey;
+   
+   
+   font-family: bell mt;
+   font-style:  italic;
+   font-size: 20px;
+   margin-top: -6px;
+   
+}
+h7{
+   
+   text-align: left;
+   font-size: 30px;
+    margin-top: 30px;
+   
+   color:  darkgreen;
+}
+h{border-radius: 5px;
+   background: black;
+   margin-left: -240px;
+   font-size: 10px;
+   
+   box-shadow: 0 0 5px #1100FF;
+   color: white;
+   padding: 3px;
+}
+h9{
+   margin-left: -170px;
+   color:  darkgray;
+   font-size: 10px;
+}
